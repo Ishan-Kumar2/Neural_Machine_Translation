@@ -33,4 +33,4 @@ To run the code
 sh run.sh vocab
 sh run.sh train_local
 ```
-
+The file Attention_Encoder_Decoder.ipynb is a concise implementation of the whole process using PyTorch functions like Bucket Iterator and spaCy. The dataset used is the parallel eng-ger corpus in spacy datasets
